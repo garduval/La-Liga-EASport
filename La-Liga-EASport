@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+LaLigaTV 4k" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4k
 http://sa25.dyndnsdot.ovh:80/live/iptvsd2538/2538yazert/116086.m3u
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV HD
